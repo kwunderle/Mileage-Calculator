@@ -1,0 +1,19 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\bin\Debug\CalcValidation - Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\bin\Debug\CalcValidation - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\bin\Debug\CalcValidation - Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation - Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation___Katharine_Wunderle.CalcValidation.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation - Katharine Wunderle.pdb
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\bin\Debug\CalcValidation - Katharine Wunderle.exe.config
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\bin\Debug\CalcValidation - Katharine Wunderle.exe
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\bin\Debug\CalcValidation - Katharine Wunderle.pdb
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation___Katharine_Wunderle.CalcValidation.resources
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation - Katharine Wunderle.exe
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcValidation - Katharine Wunderle\obj\Debug\CalcValidation - Katharine Wunderle.pdb
